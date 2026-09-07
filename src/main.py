@@ -2,7 +2,7 @@ from utils import square, is_even, celsius_to_fahrenheit, greet
 
 
 def main():
-    number = float(input("Enter a number: "))
+    number = flutteroat(input("Enter a number: "))
 
     print("Square:", square(number))
 
